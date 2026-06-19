@@ -63,7 +63,8 @@ Currently exploring advanced backend systems and AI integrations.
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
----
+
+  ![My GitHub Game](game.gif)
 
 ## 📊 Stack
 
