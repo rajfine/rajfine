@@ -98,4 +98,3 @@ Currently exploring advanced backend systems and AI integrations.
 
 - GitHub: https://github.com/
 - LinkedIn: www.linkedin.com/in/raj-singh-a8a3a333a
-- Twitter (X): https://x.com/rajSingh
