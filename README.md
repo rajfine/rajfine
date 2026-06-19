@@ -1,3 +1,8 @@
+<img src="raj-banner.png" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Don't%20just%20code%2C%20make%20it%20look%20alive" alt="Typing introduction" />
+</p>
+
 ## Hi 👋, I'm raj 😃
 
 ## 🚀 Full Stack Developer (MERN)
